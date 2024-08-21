@@ -76,3 +76,8 @@ Rare things in life that I appreciate more than coding: **🏞️ Travel**, **�
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="Mtsfer's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mtsfer&theme=react-dark&hide_border=true"></img>
 </a>
+
+### ⚡ Recent GitHub Activity
+
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<!--START_SECTION:activity-->
