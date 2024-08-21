@@ -57,14 +57,22 @@ Rare things in life that I appreciate more than coding: **🏞️ Travel**, **�
   <img alt="Redis" src="https://img.shields.io/badge/Redis-242424.svg?style=for-the-badge&logo=redis&logoColor=FF4438">
 </p>
 
-#
+</br>
 
 <!-- Stats -->
 ## 📊 Stats and Activity
 
 ### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=mtsfer&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img alt="Mtsfer's GitHub Stats" src="https://streak-stats.demolab.com?user=mtsfer&theme=react&hide_border=true"/></a>
 
 ### 💻 GitHub Profile Stats
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mtsfer's Github Stats" src="https://github-readme-stats-ivory-alpha-75.vercel.app/api?username=mtsfer&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mtsfer's Top Languages" src="https://github-readme-stats-ivory-alpha-75.vercel.app/api/top-langs/?username=mtsfer&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Mtsfer's GitHub Stats" src="https://github-readme-stats-ivory-alpha-75.vercel.app/api?username=mtsfer&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="192px"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Mtsfer's Top Languages" src="https://github-readme-stats-ivory-alpha-75.vercel.app/api/top-langs/?username=mtsfer&langs_count=8&layout=compact&theme=react&hide_border=true" height="192px"/>
+</a>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Mtsfer's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mtsfer&theme=react-dark&hide_border=true"></img>
+</a>
