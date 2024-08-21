@@ -81,3 +81,9 @@ Rare things in life that I appreciate more than coding: **🏞️ Travel**, **�
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#11660](https://github.com/simple-icons/simple-icons/issues/11660) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. ❗ Opened issue [#11659](https://github.com/simple-icons/simple-icons/issues/11659) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🎉 Merged PR [#53](https://github.com/Recrutai/Recrutai-BackEnd/pull/53) in [Recrutai/Recrutai-BackEnd](https://github.com/Recrutai/Recrutai-BackEnd)
+4. 💪 Opened PR [#53](https://github.com/Recrutai/Recrutai-BackEnd/pull/53) in [Recrutai/Recrutai-BackEnd](https://github.com/Recrutai/Recrutai-BackEnd)
+5. 🎉 Merged PR [#52](https://github.com/Recrutai/Recrutai-BackEnd/pull/52) in [Recrutai/Recrutai-BackEnd](https://github.com/Recrutai/Recrutai-BackEnd)
+<!--END_SECTION:activity-->
