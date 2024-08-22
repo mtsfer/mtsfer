@@ -11,50 +11,50 @@ Rare things in life that I appreciate more than coding: **🏞️ Travel**, **�
 
 ### 💻 Languages and Frameworks
 <p>
-  <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-242424.svg?style=for-the-badge&logo=java&logoColor=red">
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-242424.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF">
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-242424.svg?style=for-the-badge&logo=spring&logoColor=6DB33F">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-242424.svg?style=for-the-badge&logo=html5&logoColor=E34F26">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-242424.svg?style=for-the-badge&logo=css3&logoColor=1572B6">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-242424.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-242424.svg?style=for-the-badge&logo=node.js&logoColor=5FA04E">
-  <img alt="Express" src="https://img.shields.io/badge/Express-242424.svg?style=for-the-badge&logo=express&logoColor=FFFFFF">
-  <img alt="Python" src="https://img.shields.io/badge/Python-242424.svg?style=for-the-badge&logo=python&logoColor=3776AB">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-242424.svg?style=for-the-badge&logo=fastapi&logoColor=009688">
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-242424.svg?style=for-the-badge&logo=dart&logoColor=0175C2">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-242424.svg?style=for-the-badge&logo=flutter&logoColor=02569B">
-  <img alt="C++" src="https://img.shields.io/badge/C++-242424.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C">
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-242424.svg?style=for-the-badge&logo=gnubash&logoColor=4EAA25">
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-242424.svg?style=for-the-badge&logo=markdown&logoColor=FFFFFF">
+  <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-20232a.svg?style=for-the-badge&logo=java&logoColor=red">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-20232a.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF">
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=6DB33F">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-20232a.svg?style=for-the-badge&logo=html5&logoColor=E34F26">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-20232a.svg?style=for-the-badge&logo=css3&logoColor=1572B6">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-20232a.svg?style=for-the-badge&logo=node.js&logoColor=5FA04E">
+  <img alt="Express" src="https://img.shields.io/badge/Express-20232a.svg?style=for-the-badge&logo=express&logoColor=FFFFFF">
+  <img alt="Python" src="https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=python&logoColor=3776AB">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-20232a.svg?style=for-the-badge&logo=fastapi&logoColor=009688">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-20232a.svg?style=for-the-badge&logo=dart&logoColor=0175C2">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-20232a.svg?style=for-the-badge&logo=flutter&logoColor=02569B">
+  <img alt="C++" src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-20232a.svg?style=for-the-badge&logo=gnubash&logoColor=4EAA25">
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-20232a.svg?style=for-the-badge&logo=markdown&logoColor=FFFFFF">
 </p>
 
 <!-- github firefox jetbrains neovim pandas oauth influx junit hibernate mongodb aws kafka jwt spring security gradle maven git pandas-->
 ### 🧰 Software and Tools
 <p>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-242424.svg?style=for-the-badge&logo=linux&logoColor=FCC624">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-242424.svg?style=for-the-badge&logo=docker&logoColor=2496ED">
-  <img alt="Git" src="https://img.shields.io/badge/Git-242424.svg?style=for-the-badge&logo=git&logoColor=F05032">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-242424.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-242424?style=for-the-badge&logo=mysql&logoColor=4479A1">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-242424.svg?style=for-the-badge&logo=mongodb&logoColor=47A248">
-  <img alt="InfluxDB" src="https://img.shields.io/badge/InfluxDB-242424.svg?style=for-the-badge&logo=influxdb&logoColor=22ADF6">
-  <img alt="Flyway" src="https://img.shields.io/badge/Flyway-242424.svg?style=for-the-badge&logo=flyway&logoColor=CC0200">
-  <img alt="MQTT" src="https://img.shields.io/badge/MQTT-242424.svg?style=for-the-badge&logo=mqtt&logoColor=660066">
-  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-242424.svg?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-242424.svg?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900">
-  <img alt="JWT" src="https://img.shields.io/badge/JWT-242424.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF">
-  <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-242424.svg?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539">
-  <img alt="Maven" src="https://img.shields.io/badge/Maven-242424.svg?style=for-the-badge&logo=apachemaven&logoColor=C71A36">
-  <img alt="Gradle" src="https://img.shields.io/badge/Gradle-242424.svg?style=for-the-badge&logo=gradle&logoColor=FFFFFF">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-242424.svg?style=for-the-badge&logo=github&logoColor=FFFFFF">
-  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-242424.svg?style=for-the-badge&logo=obsidian&logoColor=7C3AED">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-20232a.svg?style=for-the-badge&logo=linux&logoColor=FCC624">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-20232a.svg?style=for-the-badge&logo=docker&logoColor=2496ED">
+  <img alt="Git" src="https://img.shields.io/badge/Git-20232a.svg?style=for-the-badge&logo=git&logoColor=F05032">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-20232a.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-20232a?style=for-the-badge&logo=mysql&logoColor=4479A1">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-20232a.svg?style=for-the-badge&logo=mongodb&logoColor=47A248">
+  <img alt="InfluxDB" src="https://img.shields.io/badge/InfluxDB-20232a.svg?style=for-the-badge&logo=influxdb&logoColor=22ADF6">
+  <img alt="Flyway" src="https://img.shields.io/badge/Flyway-20232a.svg?style=for-the-badge&logo=flyway&logoColor=CC0200">
+  <img alt="MQTT" src="https://img.shields.io/badge/MQTT-20232a.svg?style=for-the-badge&logo=mqtt&logoColor=660066">
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-20232a.svg?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-20232a.svg?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900">
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-20232a.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF">
+  <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-20232a.svg?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539">
+  <img alt="Maven" src="https://img.shields.io/badge/Maven-20232a.svg?style=for-the-badge&logo=apachemaven&logoColor=C71A36">
+  <img alt="Gradle" src="https://img.shields.io/badge/Gradle-20232a.svg?style=for-the-badge&logo=gradle&logoColor=FFFFFF">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-20232a.svg?style=for-the-badge&logo=github&logoColor=FFFFFF">
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-20232a.svg?style=for-the-badge&logo=obsidian&logoColor=7C3AED">
 </p>
 
 ### 📘 Learning
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-242424.svg?style=for-the-badge&logo=typescript&logoColor=3178C6">
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-242424.svg?style=for-the-badge&logo=angular&logoColor=red">
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-242424.svg?style=for-the-badge&logo=redis&logoColor=FF4438">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-20232a.svg?style=for-the-badge&logo=angular&logoColor=red">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-20232a.svg?style=for-the-badge&logo=redis&logoColor=FF4438">
 </p>
 
 </br>
