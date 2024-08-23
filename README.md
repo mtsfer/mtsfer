@@ -81,9 +81,9 @@ Rare things in life that I appreciate more than coding: **🏞️ Travel**, **�
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/Recrutai/Recrutai-BackEnd/pull/54) in [Recrutai/Recrutai-BackEnd](https://github.com/Recrutai/Recrutai-BackEnd)
-2. 💪 Opened PR [#54](https://github.com/Recrutai/Recrutai-BackEnd/pull/54) in [Recrutai/Recrutai-BackEnd](https://github.com/Recrutai/Recrutai-BackEnd)
-3. 💪 Opened PR [#45175](https://github.com/digitalinnovationone/dio-lab-open-source/pull/45175) in [digitalinnovationone/dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)
-4. 🎉 Merged PR [#1](https://github.com/mtsfer/dio-lab-open-source/pull/1) in [mtsfer/dio-lab-open-source](https://github.com/mtsfer/dio-lab-open-source)
-5. 💪 Opened PR [#1](https://github.com/mtsfer/dio-lab-open-source/pull/1) in [mtsfer/dio-lab-open-source](https://github.com/mtsfer/dio-lab-open-source)
+1. 🎉 Merged PR [#55](https://github.com/Recrutai/Recrutai-BackEnd/pull/55) in [Recrutai/Recrutai-BackEnd](https://github.com/Recrutai/Recrutai-BackEnd)
+2. 💪 Opened PR [#55](https://github.com/Recrutai/Recrutai-BackEnd/pull/55) in [Recrutai/Recrutai-BackEnd](https://github.com/Recrutai/Recrutai-BackEnd)
+3. 🎉 Merged PR [#54](https://github.com/Recrutai/Recrutai-BackEnd/pull/54) in [Recrutai/Recrutai-BackEnd](https://github.com/Recrutai/Recrutai-BackEnd)
+4. 💪 Opened PR [#54](https://github.com/Recrutai/Recrutai-BackEnd/pull/54) in [Recrutai/Recrutai-BackEnd](https://github.com/Recrutai/Recrutai-BackEnd)
+5. 💪 Opened PR [#45175](https://github.com/digitalinnovationone/dio-lab-open-source/pull/45175) in [digitalinnovationone/dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)
 <!--END_SECTION:activity-->
