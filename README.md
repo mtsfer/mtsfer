@@ -81,9 +81,9 @@ Rare things in life that I appreciate more than coding: **🏞️ Travel**, **�
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/Recrutai/api/pull/59) in [Recrutai/api](https://github.com/Recrutai/api)
-2. 💪 Opened PR [#59](https://github.com/Recrutai/api/pull/59) in [Recrutai/api](https://github.com/Recrutai/api)
-3. 🎉 Merged PR [#58](https://github.com/Recrutai/api/pull/58) in [Recrutai/api](https://github.com/Recrutai/api)
-4. 💪 Opened PR [#58](https://github.com/Recrutai/api/pull/58) in [Recrutai/api](https://github.com/Recrutai/api)
-5. 🎉 Merged PR [#57](https://github.com/Recrutai/api/pull/57) in [Recrutai/api](https://github.com/Recrutai/api)
+1. 🎉 Merged PR [#60](https://github.com/Recrutai/api/pull/60) in [Recrutai/api](https://github.com/Recrutai/api)
+2. 💪 Opened PR [#60](https://github.com/Recrutai/api/pull/60) in [Recrutai/api](https://github.com/Recrutai/api)
+3. 🎉 Merged PR [#59](https://github.com/Recrutai/api/pull/59) in [Recrutai/api](https://github.com/Recrutai/api)
+4. 💪 Opened PR [#59](https://github.com/Recrutai/api/pull/59) in [Recrutai/api](https://github.com/Recrutai/api)
+5. 🎉 Merged PR [#58](https://github.com/Recrutai/api/pull/58) in [Recrutai/api](https://github.com/Recrutai/api)
 <!--END_SECTION:activity-->
