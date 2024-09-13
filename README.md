@@ -81,9 +81,9 @@ Rare things in life that I appreciate more than coding: **🏞️ Travel**, **�
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2682](https://github.com/springdoc/springdoc-openapi/issues/2682#issuecomment-2349603889) in [springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi)
-2. 🎉 Merged PR [#67](https://github.com/Recrutai/api/pull/67) in [Recrutai/api](https://github.com/Recrutai/api)
-3. 💪 Opened PR [#67](https://github.com/Recrutai/api/pull/67) in [Recrutai/api](https://github.com/Recrutai/api)
-4. 🎉 Merged PR [#66](https://github.com/Recrutai/api/pull/66) in [Recrutai/api](https://github.com/Recrutai/api)
-5. 💪 Opened PR [#66](https://github.com/Recrutai/api/pull/66) in [Recrutai/api](https://github.com/Recrutai/api)
+1. 🎉 Merged PR [#68](https://github.com/Recrutai/api/pull/68) in [Recrutai/api](https://github.com/Recrutai/api)
+2. 💪 Opened PR [#68](https://github.com/Recrutai/api/pull/68) in [Recrutai/api](https://github.com/Recrutai/api)
+3. 🗣 Commented on [#2682](https://github.com/springdoc/springdoc-openapi/issues/2682#issuecomment-2349603889) in [springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi)
+4. 🎉 Merged PR [#67](https://github.com/Recrutai/api/pull/67) in [Recrutai/api](https://github.com/Recrutai/api)
+5. 💪 Opened PR [#67](https://github.com/Recrutai/api/pull/67) in [Recrutai/api](https://github.com/Recrutai/api)
 <!--END_SECTION:activity-->
