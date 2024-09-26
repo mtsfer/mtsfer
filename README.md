@@ -81,9 +81,9 @@ Rare things in life that I appreciate more than coding: **🏞️ Travel**, **�
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#76](https://github.com/Recrutai/api/pull/76) in [Recrutai/api](https://github.com/Recrutai/api)
-2. 💪 Opened PR [#76](https://github.com/Recrutai/api/pull/76) in [Recrutai/api](https://github.com/Recrutai/api)
-3. 🎉 Merged PR [#75](https://github.com/Recrutai/api/pull/75) in [Recrutai/api](https://github.com/Recrutai/api)
-4. 💪 Opened PR [#75](https://github.com/Recrutai/api/pull/75) in [Recrutai/api](https://github.com/Recrutai/api)
-5. 🎉 Merged PR [#74](https://github.com/Recrutai/api/pull/74) in [Recrutai/api](https://github.com/Recrutai/api)
+1. ❗ Opened issue [#854](https://github.com/dr5hn/countries-states-cities-database/issues/854) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
+2. 🎉 Merged PR [#76](https://github.com/Recrutai/api/pull/76) in [Recrutai/api](https://github.com/Recrutai/api)
+3. 💪 Opened PR [#76](https://github.com/Recrutai/api/pull/76) in [Recrutai/api](https://github.com/Recrutai/api)
+4. 🎉 Merged PR [#75](https://github.com/Recrutai/api/pull/75) in [Recrutai/api](https://github.com/Recrutai/api)
+5. 💪 Opened PR [#75](https://github.com/Recrutai/api/pull/75) in [Recrutai/api](https://github.com/Recrutai/api)
 <!--END_SECTION:activity-->
