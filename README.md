@@ -81,9 +81,9 @@ Rare things in life that I appreciate more than coding: **🏞️ Travel**, **�
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#883](https://github.com/dr5hn/countries-states-cities-database/pull/883) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
-2. 💪 Opened PR [#882](https://github.com/dr5hn/countries-states-cities-database/pull/882) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
-3. 💪 Opened PR [#881](https://github.com/dr5hn/countries-states-cities-database/pull/881) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
-4. 💪 Opened PR [#880](https://github.com/dr5hn/countries-states-cities-database/pull/880) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
-5. ❌ Closed PR [#869](https://github.com/dr5hn/countries-states-cities-database/pull/869) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
+1. 🗣 Commented on [#873](https://github.com/dr5hn/countries-states-cities-database/issues/873#issuecomment-2395151916) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
+2. 💪 Opened PR [#884](https://github.com/dr5hn/countries-states-cities-database/pull/884) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
+3. 💪 Opened PR [#883](https://github.com/dr5hn/countries-states-cities-database/pull/883) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
+4. 💪 Opened PR [#882](https://github.com/dr5hn/countries-states-cities-database/pull/882) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
+5. 💪 Opened PR [#881](https://github.com/dr5hn/countries-states-cities-database/pull/881) in [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
 <!--END_SECTION:activity-->
