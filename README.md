@@ -53,8 +53,8 @@ Rare things in life that I appreciate more than coding: **🏞️ Travel**, **�
 ### 📘 Learning
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6">
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-20232a.svg?style=for-the-badge&logo=angular&logoColor=red">
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-20232a.svg?style=for-the-badge&logo=redis&logoColor=FF4438">
+  <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-20232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4">
 </p>
 
 </br>
