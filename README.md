@@ -67,10 +67,10 @@ Rare things in life that I appreciate more than coding: **🏞️ Travel**, **�
 
 ### 💻 GitHub Profile Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Mtsfer's GitHub Stats" src="https://github-readme-stats-three-theta-20.vercel.app/api?username=mtsfer&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="192px"/>
+  <img alt="Mtsfer's GitHub Stats" src="https://github-readme-stats-psi-umber.vercel.app/api?username=mtsfer&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="192px"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Mtsfer's Top Languages" src="https://github-readme-stats-three-theta-20.vercel.app/api/top-langs/?username=mtsfer&langs_count=8&layout=compact&theme=react&hide_border=true" height="192px"/>
+  <img alt="Mtsfer's Top Languages" src="https://github-readme-stats-psi-umber.vercel.app/api/top-langs/?username=mtsfer&langs_count=8&layout=compact&theme=react&hide_border=true" height="192px"/>
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
