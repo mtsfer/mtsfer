@@ -63,7 +63,7 @@ Rare things in life that I appreciate more than coding: **🏞️ Travel**, **�
 ## 📊 Stats and Activity
 
 ### 🔥 Streak Stats
-<a href="https://git.io/streak-stats"><img alt="Mtsfer's GitHub Stats" src="https://streak-stats.demolab.com?user=mtsfer&theme=react&hide_border=true"/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-delta-eight.vercel.app?user=mtsfer&theme=react&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 
 ### 💻 GitHub Profile Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
